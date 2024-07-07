@@ -15,3 +15,5 @@ interview.txt
 **/**.index
 oreilly
 **.model
+.idea
+/prompt-engineering-for-gen-ai/
